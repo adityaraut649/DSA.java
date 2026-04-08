@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class PrimeNumber {
+public class PrimeNumber {
     public static void main(String[] args) {
        // .1 Find the maximum value out of all the elements in the arry
         Scanner sc = new Scanner(System.in);
